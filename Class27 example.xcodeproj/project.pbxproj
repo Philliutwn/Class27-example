@@ -12,6 +12,7 @@
 		4A54C7E62146C29000C4D880 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A54C7E42146C29000C4D880 /* Main.storyboard */; };
 		4A54C7E82146C29100C4D880 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A54C7E72146C29100C4D880 /* Assets.xcassets */; };
 		4A54C7EB2146C29100C4D880 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A54C7E92146C29100C4D880 /* LaunchScreen.storyboard */; };
+		4A54C7F32146C65800C4D880 /* PeopleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A54C7F22146C65800C4D880 /* PeopleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4A54C7E72146C29100C4D880 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A54C7EA2146C29100C4D880 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A54C7EC2146C29100C4D880 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A54C7F22146C65800C4D880 /* PeopleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4A54C7E02146C29000C4D880 /* AppDelegate.swift */,
 				4A54C7E22146C29000C4D880 /* ViewController.swift */,
 				4A54C7E42146C29000C4D880 /* Main.storyboard */,
+				4A54C7F22146C65800C4D880 /* PeopleViewController.swift */,
 				4A54C7E72146C29100C4D880 /* Assets.xcassets */,
 				4A54C7E92146C29100C4D880 /* LaunchScreen.storyboard */,
 				4A54C7EC2146C29100C4D880 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				4A54C7E32146C29000C4D880 /* ViewController.swift in Sources */,
 				4A54C7E12146C29000C4D880 /* AppDelegate.swift in Sources */,
+				4A54C7F32146C65800C4D880 /* PeopleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
